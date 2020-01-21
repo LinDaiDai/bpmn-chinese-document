@@ -677,30 +677,11 @@ moddleExtensions: {
 
 (看着好心酸)
 
-最后, 如果你也对`bpmn.js` 感兴趣可以扫码进我们的交流群👇👇👇, 共同学习, 共同进步.
+系列全部目录请查看此处:  [《全网最详bpmn.js教材目录》](https://github.com/LinDaiDai/bpmn-chinese-document/blob/master/directory.md)
 
-![](https://user-gold-cdn.xitu.io/2020/1/12/16f955ac8a90c89f?w=674&h=896&f=png&s=154191)
+最后, 如果你也对`bpmn.js` 感兴趣可以进我们的bpmn.js交流群👇👇👇, 共同学习, 共同进步.
 
-最最后, 喜欢霖呆呆的小伙伴可以关注我的公众号呀, 我会不定期的更新一些前端方面的知识, 另外单身的小哥哥小姐姐也有福利呀嘻嘻嘻嘻😁
+关注霖呆呆的公众号, 选择“其它”菜单中的“bpmn.js群”即可😊.
 
-![LinDaiDai公众号二维码.jpg](https://user-gold-cdn.xitu.io/2020/1/12/16f9559d2a051e35?w=344&h=344&f=png&s=53202)
+![LinDaiDai公众号二维码.jpg](/Users/lindaidai/codes/bpmn/bpmn-chinese-document/resource/LinDaiDai公众号二维码.jpg)
 
-系列全部目录请查看此处:  [《全网最详bpmn.js教材》](https://juejin.im/post/5def372af265da33c84a4818)
-
-系列相关推荐:
-
-[《全网最详bpmn.js教材-基础篇》](https://juejin.im/post/5def4377e51d4557f852baf9)
-
-[《全网最详bpmn.js教材-事件篇》](https://juejin.im/post/5def47e16fb9a0160376e416)
-
-[《全网最详bpmn.js教材-renderer篇》](https://juejin.im/post/5df3256df265da33cd03ad61)
-
-[《全网最详bpmn.js教材-contextPad篇》](https://juejin.im/post/5dfb887051882512713d2d2e)
-
-[《全网最详bpmn.js教材-自定义palette篇》](https://juejin.im/post/5df197c4f265da33bd4976af)
-
-[《全网最详bpmn.js教材-编辑、删除节点篇》](https://juejin.im/post/5dfcd33d518825122c4cb0c1)
-
-[《全网最详bpmn.js教材-封装组件篇》](https://juejin.im/post/5dfecb3de51d45581b11efac)
-
-[《全网最详bpmn.js教材-properties篇》](https://juejin.im/post/5e19f17e6fb9a02fea372b37)

@@ -299,14 +299,11 @@ getContextPadEntries(element) {
 
 项目案例Git地址: [LinDaiDai/bpmn-vue-custom](https://github.com/LinDaiDai/bpmn-vue-custom) 喜欢的小伙伴请给个`Star`🌟呀, 谢谢😊
 
-系列相关推荐:
+系列全部目录请查看此处:  [《全网最详bpmn.js教材目录》](https://github.com/LinDaiDai/bpmn-chinese-document/blob/master/directory.md)
 
-[《全网最详bpmn.js教材-基础篇》](https://juejin.im/post/5def4377e51d4557f852baf9)
+最后, 如果你也对`bpmn.js` 感兴趣可以进我们的bpmn.js交流群👇👇👇, 共同学习, 共同进步.
 
-[《全网最详bpmn.js教材-http请求篇》](https://juejin.im/post/5def468c6fb9a01622778a03)
+关注**霖呆呆(LinDaiDai)的公众号**, 选择 **其它** 菜单中的 **bpmn.js群** 即可😊.
 
-[《全网最详bpmn.js教材-事件篇》](https://juejin.im/post/5def47e16fb9a0160376e416)
+![LinDaiDai公众号二维码.jpg](/Users/lindaidai/codes/bpmn/bpmn-chinese-document/resource/LinDaiDai公众号二维码.jpg)
 
-[《全网最详bpmn.js教材-renderer篇》](https://juejin.im/post/5df3256df265da33cd03ad61)
-
-[《全网最详bpmn.js教材-编辑、删除节点篇》](https://juejin.im/post/5dfcd33d518825122c4cb0c1)
