@@ -106,7 +106,7 @@
 
 
 
-进群方式: 关注**霖呆呆(LinDaiDai)**的公众号👇👇👇, 选择 **其它** 菜单中的 **bpmn.js群** 即可😊.
+进群方式: 关注 **霖呆呆(LinDaiDai)** 的公众号👇👇👇, 选择 **其它** 菜单中的 **bpmn.js群** 即可😊.
 
 ![LinDaiDai公众号](./resource/LinDaiDai公众号二维码.jpg)
 
@@ -116,5 +116,5 @@
 
 你的支持是霖呆呆持续更新的动力, 哈哈哈 😄
 
-<img src="./resource/LinDaiDai赞赏码.jpg" alt="LinDaiDai赞赏码" style="zoom:33%;" />
+<img src="./resource/LinDaiDai赞赏码.png" alt="LinDaiDai赞赏码" style="zoom:50%;" />
 
