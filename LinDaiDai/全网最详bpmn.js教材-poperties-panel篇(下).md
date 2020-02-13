@@ -637,6 +637,18 @@ setDefaultProperties() {
 
 其实就是和上面👆介绍`修改event类型`的初始化一样, 不过我怕有的小伙伴直接跳过了`修改event类型`没有看到这一部分, 所以单独拎出来说下.
 
+比如我们想要从`Shape`里获取到`label`然后同步到右侧的自定义属性栏里可以这样做:
+
+在`setDefaultProperties`里我们可以通过`this.element`拿到当前点击的这个元素, 将这个元素打印出来会发现, `label`实际上是`businessObject`对象中的`name`属性, 所以我们只需要做一下处理:
+
+```javascript
+element['name'] = businessObject.name
+```
+
+这样你不管在修改图上面的`label`还是修改自定义属性栏里的`name`都会同步更新了, 具体可以看github中的代码.
+
+
+
 ## `replace`的类型
 
 在上面👆我们介绍了关于`Event`和`Task`类型的元素是如何转化类型的, 案例中也仅仅演示了几种类型, 那么全部的类型到哪里看呢 🤔️?
