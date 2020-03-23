@@ -15,6 +15,7 @@
 - [《properties-panel篇(上)》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-properties-panel篇(上).md)🔥🔥🔥
 - [《properties-panel篇(下)》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-properties-panel篇(下).md)🔥🔥🔥
 - [《全网最详bpmn.js教材-群友问题汇总(一)》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-群友问题汇总(一).md)🔥🔥🔥🔥
+- [《全网最详bpmn.js教材-群友问题汇总(二)》](https://github.com/LinDaiDai/bpmn-chinese-document/blob/master/LinDaiDai/全网最详bpmn.js教材-群友问题汇总(二).md)🔥🔥🔥
 
 
 

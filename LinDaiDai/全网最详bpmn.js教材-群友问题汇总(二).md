@@ -10,7 +10,7 @@
 8. bpmn底层是如何操作xml的, 源码在哪里（流星）
 9. 条件顺序流的条件是怎么加进去的（Ivan）
 10. 如何使得流程图不能被编辑，仅仅做展示用（Ivan和Mercury、锦绣）
-11. 禁止滚动（kokoro）
+11. 禁止滚动（kokoro、What If.）
 12. 如何将自定义类型的元素通过基本类型渲染出来(好好干)
 13. 开发环境正常，生产环境却会报错（锦绣Erin）
 14. 自定义属性面板的监听添加(麦兜)
@@ -19,7 +19,7 @@
 
 
 
-### 如何获取所有的事件
+### 1. 如何获取所有的事件
 
 (感谢该问题解决者超哥)
 
@@ -79,21 +79,21 @@ addEventBusListener () { // 绑定监听事件
 
 点击之后，能选择多个元素进行集体拖拽：
 
-GIF1
+![bpmn1](../resource/problem/bpmn1.gif)
 
 ##### (三) Active the create/remove space tool
 
 点击之后，能调整一侧元素之间的间隔：
 
+![bpmn2](../resource/problem/bpmn2.gif)
+
 ##### (四) Active the global connect tool
 
 创建一根连接线：
 
-GIF3
 
 
-
-
+![bpmn3](../resource/problem/bpmn3.gif)
 
 
 
@@ -105,31 +105,31 @@ GIF3
 
 功能：
 
-![WechatIMG316](/Users/lindaidai/Pictures/bpmn-chinese-document/WechatIMG316.png)
+![WechatIMG316](../resource/problem/WechatIMG316.png)
 
-![WechatIMG319](/Users/lindaidai/Pictures/bpmn-chinese-document/WechatIMG319.png)
+![WechatIMG319](../resource/problem/WechatIMG319.png)
 
 
 
 ### 3.
 
-<img src="/Users/lindaidai/Pictures/bpmn-chinese-document/0B01F220-CA9B-41EA-8AC9-84E113E3E390.png" alt="0B01F220-CA9B-41EA-8AC9-84E113E3E390" style="zoom:50%;" />
+<img src="../resource/problem/0B01F220-CA9B-41EA-8AC9-84E113E3E390.png" alt="0B01F220-CA9B-41EA-8AC9-84E113E3E390" style="zoom:50%;" />
 
 
 
-![WechatIMG312](/Users/lindaidai/Pictures/bpmn-chinese-document/WechatIMG312.png)
+![WechatIMG312](../resource/problem/WechatIMG312.png)
 
 
 
-![WechatIMG313](/Users/lindaidai/Pictures/bpmn-chinese-document/WechatIMG313.png)
+![WechatIMG313](../resource/problem/WechatIMG313.png)
 
 
 
-<img src="/Users/lindaidai/Pictures/bpmn-chinese-document/AE96B155-9290-432A-84A1-957DC9D0DF8B.png" alt="AE96B155-9290-432A-84A1-957DC9D0DF8B" style="zoom:50%;" />
+<img src="../resource/problem/AE96B155-9290-432A-84A1-957DC9D0DF8B.png" alt="AE96B155-9290-432A-84A1-957DC9D0DF8B" style="zoom:50%;" />
 
 
 
-<img src="/Users/lindaidai/Pictures/bpmn-chinese-document/46BDE64B-158E-4B32-ABC7-CACF51385D5F.png" alt="46BDE64B-158E-4B32-ABC7-CACF51385D5F" style="zoom:50%;" />
+<img src="../resource/problem/46BDE64B-158E-4B32-ABC7-CACF51385D5F.png" alt="46BDE64B-158E-4B32-ABC7-CACF51385D5F" style="zoom:50%;" />
 
 
 
@@ -149,21 +149,21 @@ bpmnViewer.get('canvas').zoom('fit-viewport', 'auto')
 
 
 
-<img src="/Users/lindaidai/Pictures/bpmn-chinese-document/WeChate7d32848fc70b5c6a169bb0d6ed05ecf.png" alt="WeChate7d32848fc70b5c6a169bb0d6ed05ecf" style="zoom:50%;" />
+<img src="../resource/problem/WeChate7d32848fc70b5c6a169bb0d6ed05ecf.png" alt="WeChate7d32848fc70b5c6a169bb0d6ed05ecf" style="zoom:50%;" />
 
-<img src="/Users/lindaidai/Pictures/bpmn-chinese-document/A256DA1C-E9B1-4EC8-90F7-6472B3D86509.png" alt="A256DA1C-E9B1-4EC8-90F7-6472B3D86509" style="zoom:50%;" />
-
-
-
-<img src="/Users/lindaidai/Pictures/bpmn-chinese-document/5A8C0AD2-4BD7-459F-8A05-F919B9ADB605.png" alt="5A8C0AD2-4BD7-459F-8A05-F919B9ADB605" style="zoom:50%;" />
+<img src="../resource/problem/A256DA1C-E9B1-4EC8-90F7-6472B3D86509.png" alt="A256DA1C-E9B1-4EC8-90F7-6472B3D86509" style="zoom:50%;" />
 
 
 
-![WechatIMG62](/Users/lindaidai/Pictures/bpmn-chinese-document/WechatIMG62.png)
+<img src="../resource/problem/5A8C0AD2-4BD7-459F-8A05-F919B9ADB605.png" alt="5A8C0AD2-4BD7-459F-8A05-F919B9ADB605" style="zoom:50%;" />
 
 
 
-<img src="/Users/lindaidai/Pictures/bpmn-chinese-document/WechatIMG64.png" alt="WechatIMG64" style="zoom:50%;" />
+![WechatIMG62](../resource/problem/WechatIMG62.png)
+
+
+
+<img src="../resource/problem/WechatIMG64.png" alt="WechatIMG64" style="zoom:50%;" />
 
 
 
@@ -171,13 +171,13 @@ bpmnViewer.get('canvas').zoom('fit-viewport', 'auto')
 
 自定义属性不能是default ？ 用default就报错
 
-![57819D29-947C-4013-A1A9-FA66044ED11D](/Users/lindaidai/Pictures/bpmn-chinese-document/57819D29-947C-4013-A1A9-FA66044ED11D.png)
+![57819D29-947C-4013-A1A9-FA66044ED11D](../resource/problem/57819D29-947C-4013-A1A9-FA66044ED11D.png)
 
 ### 7.
 
 如何给一些特殊的节点设置颜色
 
-![E5C86775-0DE7-4DFD-9BDD-98695C79C389](/Users/lindaidai/Pictures/bpmn-chinese-document/E5C86775-0DE7-4DFD-9BDD-98695C79C389.png)
+![E5C86775-0DE7-4DFD-9BDD-98695C79C389](../resource/problem/E5C86775-0DE7-4DFD-9BDD-98695C79C389.png)
 
 
 
@@ -185,11 +185,11 @@ bpmnViewer.get('canvas').zoom('fit-viewport', 'auto')
 
 bpmn底层是如何操作xml的, 源码在哪里
 
-![WechatIMG206](/Users/lindaidai/Pictures/bpmn-chinese-document/WechatIMG206.png)
+![WechatIMG206](../resource/problem/WechatIMG206.png)
 
 
 
-<img src="/Users/lindaidai/Pictures/bpmn-chinese-document/A8E7ECA0-EC4C-4DEB-BEAB-BB16C8FEA44F.png" alt="A8E7ECA0-EC4C-4DEB-BEAB-BB16C8FEA44F" style="zoom:50%;" />
+<img src="../resource/problem/A8E7ECA0-EC4C-4DEB-BEAB-BB16C8FEA44F.png" alt="A8E7ECA0-EC4C-4DEB-BEAB-BB16C8FEA44F" style="zoom:50%;" />
 
 
 
@@ -201,11 +201,11 @@ bpmn底层是如何操作xml的, 源码在哪里
 
 
 
-![WechatIMG210](/Users/lindaidai/Pictures/bpmn-chinese-document/WechatIMG210.png)
+![WechatIMG210](../resource/problem/WechatIMG210.png)
 
 
 
-![WechatIMG214](/Users/lindaidai/Pictures/bpmn-chinese-document/WechatIMG214.png)
+![WechatIMG214](../resource/problem/WechatIMG214.png)
 
 
 
@@ -223,9 +223,11 @@ bpmn底层是如何操作xml的, 源码在哪里
 
 ### 11.
 
-![WechatIMG855](/Users/lindaidai/Pictures/bpmn-chinese-document/WechatIMG855.jpeg)
+![WechatIMG855](../resource/problem/WechatIMG855.jpeg)
 
 
+
+![WechatIMG70](../resource/problem/WechatIMG70.png)
 
 ### 12.
 
@@ -248,7 +250,7 @@ drawShape(parentNode, element) {
 
 ### 13
 
-![image-20200304111459558](/Users/lindaidai/Library/Application Support/typora-user-images/image-20200304111459558.png)
+![image-20200304111459558](../resource/problem/131.png)
 
 $inject的问题
 
@@ -256,12 +258,14 @@ https://segmentfault.com/a/1190000020723731?utm_source=tag-newest
 
 
 
-### 14![WechatIMG2119](/Users/lindaidai/Documents/other/img/bpmn/WechatIMG2119.png)
+### 14
 
-![WechatIMG2140](/Users/lindaidai/Documents/other/img/bpmn/WechatIMG2140.png)
-
-![WechatIMG2144](/Users/lindaidai/Documents/other/img/bpmn/WechatIMG2144.png)
+![WechatIMG2119](../resource/problem/333.png)
 
 
 
-![91021D18-CC27-4180-A4AC-96CDD023B89B](/Users/lindaidai/Documents/other/img/bpmn/91021D18-CC27-4180-A4AC-96CDD023B89B.png)
+![WechatIMG2140](../resource/problem/4444.png)
+
+![111](../resource/problem/111.png)
+
+![222](../resource/problem/222.png)
