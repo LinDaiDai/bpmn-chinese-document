@@ -16,6 +16,8 @@
 - [《properties-panel篇(下)》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-properties-panel篇(下).md)🔥🔥🔥
 - [《全网最详bpmn.js教材-群友问题汇总(一)》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-群友问题汇总(一).md)🔥🔥🔥🔥
 - [《全网最详bpmn.js教材-群友问题汇总(二)》](https://github.com/LinDaiDai/bpmn-chinese-document/blob/master/LinDaiDai/全网最详bpmn.js教材-群友问题汇总(二).md)🔥🔥🔥
+- [《掘友winily-Vue 整合Bpmn-js 工作流模型编辑器》](https://juejin.im/post/5e509fab6fb9a07c820fa78a)
+- [《掘友winily-Bpmn.js 在线流程编辑器的汉化》](https://juejin.im/post/5e802afcf265da794978f8b0)
 
 
 
