@@ -104,11 +104,13 @@
 
 ![weixin](./resource/weixin.png)
 
-
-
 进群方式: 关注 **霖呆呆(LinDaiDai)** 的公众号👇👇👇, 选择 **其它** 菜单中的 **bpmn.js群** 即可😊.
 
-![](./resource/LinDaiDai公众号gif图.gif)
+| 公众号二维码                              | 赞赏码                                                       |
+| ----------------------------------------- | ------------------------------------------------------------ |
+| ![](./resource/LinDaiDai公众号二维码.jpg) | <img src="./resource/LinDaiDai赞赏码.png" alt="LinDaiDai赞赏码" style="zoom:50%;" /> |
+
+
 
 整理文章, 编写案例不易 😂... 
 
@@ -116,5 +118,5 @@
 
 你的支持是霖呆呆持续更新的动力, 哈哈哈 😄
 
-<img src="./resource/LinDaiDai赞赏码.png" alt="LinDaiDai赞赏码" style="zoom:50%;" />
+
 
