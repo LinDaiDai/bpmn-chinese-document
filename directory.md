@@ -6,14 +6,14 @@
 - [《基础篇》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-基础篇.md)🔥🔥
 - [《http请求篇》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-http请求篇.md)🔥🔥
 - [《事件篇》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-事件篇.md)🔥🔥🔥
-- [《自定义Palette篇》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-自定义Palette篇.md)🔥🔥
-- [《自定义Renderer篇》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-自定义Renderer篇.md)🔥🔥🔥🔥
-- [《自定义contextPad篇》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材自定义contextPad篇.md)🔥🔥🔥
+- [《自定义Palette篇》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-自定义palette篇.md)🔥🔥
+- [《自定义Renderer篇》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-自定义renderer篇.md)🔥🔥🔥🔥
+- [《自定义contextPad篇》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-自定义contextPad篇.md)🔥🔥🔥
 - [《编辑、删除节点篇》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-编辑、删除节点篇.md)🔥🔥🔥
 - [《封装组件篇》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-封装组件篇.md)🔥🔥🔥
 - [《properties篇》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-properties篇.md)🔥🔥🔥
 - [《properties-panel篇(上)》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-properties-panel篇(上).md)🔥🔥🔥
-- [《properties-panel篇(下)》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-properties-panel篇(下).md)🔥🔥🔥
+- [《properties-panel篇(下)》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-poperties-panel篇(下).md)🔥🔥🔥
 - [《全网最详bpmn.js教材-群友问题汇总(一)》](https://github.com/LinDaiDai/bpmn-chinese-document/tree/master/LinDaiDai/全网最详bpmn.js教材-群友问题汇总(一).md)🔥🔥🔥🔥
 - [《全网最详bpmn.js教材-群友问题汇总(二)》](https://github.com/LinDaiDai/bpmn-chinese-document/blob/master/LinDaiDai/全网最详bpmn.js教材-群友问题汇总(二).md)🔥🔥🔥
 - [《掘友winily-Vue 整合Bpmn-js 工作流模型编辑器》](https://juejin.im/post/5e509fab6fb9a07c820fa78a)

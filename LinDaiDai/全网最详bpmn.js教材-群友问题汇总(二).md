@@ -14,6 +14,7 @@
 12. 如何将自定义类型的元素通过基本类型渲染出来(好好干)
 13. 开发环境正常，生产环境却会报错（锦绣Erin）
 14. 自定义属性面板的监听添加(麦兜)
+15. 如何获取流程图最外层的属性(根节点)
 
 
 
@@ -269,3 +270,14 @@ https://segmentfault.com/a/1190000020723731?utm_source=tag-newest
 ![111](../resource/problem/111.png)
 
 ![222](../resource/problem/222.png)
+
+
+
+
+
+### 15
+
+```javascript
+this.bpmnModeler.getDefinitions().rootElements[0]
+```
+
