@@ -190,7 +190,7 @@ drawShape(parentNode, element) {
 - `stroke`：元素的边框颜色
 - `strokenWidth`：元素边框的宽度
 
-为了方便管理和配置我在`CustomRenderer.js`中定义了一个配置想，另外封装了一个`setShapeProperties`方法专门用来处理节点颜色的问题，核心代码就这么些：
+为了方便管理和配置我在`CustomRenderer.js`中定义了一个配置项，另外封装了一个`setShapeProperties`方法专门用来处理节点颜色的问题，核心代码就这么些：
 
 ```javascript
 const propertiesConfig = {

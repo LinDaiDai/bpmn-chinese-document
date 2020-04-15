@@ -212,7 +212,7 @@ npm i bpmn-js --save-D
       methods: {
         init() {
           // 获取到属性ref为“canvas”的dom节点
-          const canvas1 = this.$refs.canvas1
+          const canvas = this.$refs.canvas
           // 建模
           this.bpmnModeler = new BpmnModeler({
             container: canvas
