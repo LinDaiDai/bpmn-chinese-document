@@ -64,11 +64,9 @@ addEventBusListener () { // 绑定监听事件
 
 
 
-#### 把左侧工具栏上的四个功能分离出来
+### 2. 把左侧工具栏上的四个功能分离出来
 
 在[《全网最详bpmn.js教材-自定义palette篇》](https://juejin.im/post/5df197c4f265da33bd4976af)中我介绍的都是一些**如何使用palette创建元素**，但是如何使用`palette`中上面的那四个工具(官方上说它们属于`Activate`这个组)却没介绍。
-
-图片2
 
 先来简单介绍下这四个工具的作用：
 
@@ -95,10 +93,6 @@ addEventBusListener () { // 绑定监听事件
 
 
 ![bpmn3](../resource/problem/bpmn3.gif)
-
-
-
-### 2.
 
 把左侧工具栏上的四个功能分离出来
 
