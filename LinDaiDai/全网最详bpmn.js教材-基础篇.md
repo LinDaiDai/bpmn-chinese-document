@@ -76,7 +76,7 @@
 
 (上面的`xmlStr.js`以及案例代码在这里[LinDaiDai-bpmn-basic-demo](https://github.com/LinDaiDai/bpmn-basic-demo))
 
-如上面的案例所示, 我们使用`DNS`加速直接引入`bpmn.js`, 然后本地指定一个容器(也就是`id`为`canvas`的那个`div`), 接着用`bpmn.js`提供的方法`importXML`就可以解析`xml`字符串生成对应的工作流图了.
+如上面的案例所示, 我们使用`CDN`加速直接引入`bpmn.js`, 然后本地指定一个容器(也就是`id`为`canvas`的那个`div`), 接着用`bpmn.js`提供的方法`importXML`就可以解析`xml`字符串生成对应的工作流图了.
 
 打开页面可以看到
 

@@ -36,7 +36,7 @@
 
 在`components`文件夹下新建一个`custom-renderer.vue`文件, 同时配置路由“自定义renderer”.
 
-在`components/custom`文件夹下新建一个`CustomRenderer.vue`文件, 用来自定义`renderer`.
+在`components/custom`文件夹下新建一个`CustomRenderer.js`文件, 用来自定义`renderer`.
 
 在`components`文件夹下新建一个`utils`文件夹同时新建`util.js`文件, 用来放一些公共的方法和配置.
 
