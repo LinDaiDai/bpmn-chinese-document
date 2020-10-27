@@ -20,6 +20,7 @@
 - [《掘友易样-使用vue+bpmn-js实现activiti的流程设计器》](https://juejin.im/post/5e7330c36fb9a07cd248ef00)
 - [《掘友winily-Vue 整合Bpmn-js 工作流模型编辑器》](https://juejin.im/post/5e509fab6fb9a07c820fa78a)
 - [《掘友winily-Bpmn.js 在线流程编辑器的汉化》](https://juejin.im/post/5e802afcf265da794978f8b0)
+- [《ops-coffee.cn/bpmn 教程》](https://blog.ops-coffee.cn/bpmn)
 
 
 
