@@ -116,5 +116,8 @@
 
 你的支持是霖呆呆持续更新的动力, 哈哈哈 😄
 
+#### 更多bpmn相关文档和案例
 
+- https://github.com/miyuesc/bpmn-process-designer
+- https://github.com/PL-FE/bpmn-doc
 
