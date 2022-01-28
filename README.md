@@ -30,7 +30,7 @@
 
 [bpmn.js教材目录](https://github.com/LinDaiDai/bpmn-chinese-document/blob/master/directory.md)
 
-
+（如果github中一些文章的图片显示不出来，可以在掘金上查看，也有相应的文章：https://juejin.cn/user/360295513463912/posts）
 
 ### 几个问题
 
