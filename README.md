@@ -26,9 +26,9 @@
 
 ### 全部目录
 
-
-
 [bpmn.js教材目录](https://github.com/LinDaiDai/bpmn-chinese-document/blob/master/directory.md)
+
+**注：如果霖呆呆的文档较旧的话, 建议查看：[bpmn-js 交流群附属资料(文档及开源库)](https://juejin.cn/post/7304831120710434868) 中的文档, 会新很多，强推！！！**
 
 （如果github中一些文章的图片显示不出来，可以在掘金上查看，也有相应的文章：https://juejin.cn/user/360295513463912/posts）
 
